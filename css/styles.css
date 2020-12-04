@@ -36,9 +36,12 @@ li {
   font-size: 30px;
   font-weight: 700;
   list-style: none;
+}
+.nav {
   text-align: right;
   color: #ffffff;
 }
+
 nav {
   display: none;
   color: #3f424f;
