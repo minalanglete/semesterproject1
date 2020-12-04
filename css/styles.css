@@ -45,6 +45,7 @@ nav {
 #hamburger-menu {
   display: none;
   float: right;
+  color: #ffff;
 }
 
 #hamburger-menu:checked ~ nav {
