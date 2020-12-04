@@ -41,12 +41,13 @@ nav {
 
 #hamburger-menu {
   display: none;
-  float: right;
-  color: rgb(214, 0, 0);
 }
 
 #hamburger-menu:checked ~ nav {
   display: block;
+  text-decoration: none;
+  background-color: #3f424f;
+  color: #ffffff;
 }
 
 /*-----------aside-----------------------------------------------------------------*/
