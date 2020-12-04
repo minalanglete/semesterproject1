@@ -36,6 +36,8 @@ li {
   font-size: 30px;
   font-weight: 700;
   list-style: none;
+  text-align: right;
+  color: #ffffff;
 }
 nav {
   display: none;
@@ -49,7 +51,6 @@ nav {
 #hamburger-menu:checked ~ nav {
   display: block;
   background-color: #3f424f;
-  color: #ffffff;
 }
 
 /*-----------aside-----------------------------------------------------------------*/
