@@ -27,11 +27,15 @@ h4 {
 
 /*-----------header-----------------------------------------------------------------*/
 nav {
+  text-decoration: none;
+}
+nav {
   display: none;
 }
 
 #hamburger-menu {
   display: none;
+  float: right;
 }
 
 #hamburger-menu:checked ~ nav {
