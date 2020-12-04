@@ -24,6 +24,9 @@ h4 {
   font-size: 25px;
   font-weight: 700;
 }
+a {
+  text-decoration: none;
+}
 
 /*-----------header-----------------------------------------------------------------*/
 
@@ -36,7 +39,6 @@ li {
 nav {
   display: none;
   color: #3f424f;
-  text-decoration: none;
 }
 
 #hamburger-menu {
@@ -45,7 +47,6 @@ nav {
 
 #hamburger-menu:checked ~ nav {
   display: block;
-  text-decoration: none;
   background-color: #3f424f;
   color: #ffffff;
 }
