@@ -35,6 +35,7 @@ li {
   text-transform: uppercase;
   font-size: 30px;
   font-weight: 700;
+  list-style: none;
 }
 nav {
   display: none;
