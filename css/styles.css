@@ -26,9 +26,7 @@ h4 {
 }
 
 /*-----------header-----------------------------------------------------------------*/
-header {
-  background-color: #3f424f;
-}
+
 li {
   font-family: teko, Arial, Helvetica, sans-serif;
   text-transform: uppercase;
@@ -44,7 +42,7 @@ nav {
 #hamburger-menu {
   display: none;
   float: right;
-  color: #ffff;
+  color: rgb(214, 0, 0);
 }
 
 #hamburger-menu:checked ~ nav {
