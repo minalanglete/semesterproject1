@@ -104,6 +104,9 @@ nav {
   display: block;
   background-color: #3f424f;
 }
+header .fas {
+  color: #ffffff;
+}
 /*-----------main-----------------------------------------------------------------*/
 
 .maintext {
