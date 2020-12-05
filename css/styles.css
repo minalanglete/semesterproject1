@@ -101,6 +101,12 @@ nav {
   color: #fac13e;
   max-height: 52px;
 }
+.cards {
+  background-color: #9769fa;
+  display: inline-block;
+  padding: 10px 70px 70px 70px;
+  text-align: center;
+}
 /*-----------aside-----------------------------------------------------------------*/
 
 aside {
