@@ -94,7 +94,7 @@ nav {
 .mobil {
   display: none;
 }
-.iconmobil ~ .fas {
+.fas {
   color: #fac13e;
   max-height: 52px;
 }
