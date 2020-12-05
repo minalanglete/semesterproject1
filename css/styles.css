@@ -49,7 +49,7 @@ h3 {
   display: inline-block;
   text-transform: uppercase;
 }
-a:hover {
+h3 a:hover {
   background-color: #fac13e;
 }
 
