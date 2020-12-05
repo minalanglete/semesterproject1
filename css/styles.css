@@ -120,6 +120,8 @@ header .fas {
 }
 .iconmobil .fas {
   color: #fac13e;
+  text-align: center;
+  padding: 20px;
 }
 .fas {
   font-size: 50px;
