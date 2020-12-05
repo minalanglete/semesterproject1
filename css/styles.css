@@ -23,7 +23,8 @@ body {
     "main"
     "footer";
 }
-a:link {
+a:link,
+a:visited {
   color: #ffffff;
 }
 
