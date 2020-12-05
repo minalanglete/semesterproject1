@@ -49,6 +49,10 @@ h3 {
   display: inline-block;
   text-transform: uppercase;
 }
+h3 a:hover {
+  background-color: #fac13e;
+}
+
 h4 {
   font-family: teko, Arial, Helvetica, sans-serif;
   font-size: 25px;
