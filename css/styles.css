@@ -23,6 +23,10 @@ body {
     "main"
     "footer";
 }
+a:link {
+  color: #ffffff;
+}
+
 h1,
 h2 {
   font-family: teko, Arial, Helvetica, sans-serif;
