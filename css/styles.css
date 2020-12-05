@@ -50,6 +50,9 @@ a {
 .toppimg {
   max-width: 100%;
 }
+header {
+  background-color: #3f424f;
+}
 .h1 {
   color: #ffffff;
   background-color: #cb55d4;
