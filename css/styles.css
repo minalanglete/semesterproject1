@@ -102,10 +102,12 @@ nav {
   max-height: 52px;
 }
 .cards {
+  text-align: center;
+}
+.cosmology {
   background-color: #9769fa;
   display: inline-block;
   padding: 10px 70px 70px 70px;
-  text-align: center;
 }
 /*-----------aside-----------------------------------------------------------------*/
 
