@@ -16,7 +16,7 @@ footer {
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 14px;
-  color: #3f424f;
+  color: #000000;
   display: grid;
   grid-template-areas:
     "header"
@@ -42,6 +42,7 @@ h3 {
   padding-right: 50px;
   text-decoration: none;
   display: inline-block;
+  text-transform: uppercase;
 }
 h4 {
   font-family: teko, Arial, Helvetica, sans-serif;
