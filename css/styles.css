@@ -47,6 +47,9 @@ a {
 }
 
 /*-----------header-----------------------------------------------------------------*/
+.toppimg {
+  max-width: 100%;
+}
 
 li {
   font-family: teko, Arial, Helvetica, sans-serif;
