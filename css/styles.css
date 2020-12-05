@@ -40,6 +40,8 @@ h3 {
   background-color: #cb55d4;
   padding-left: 50px;
   padding-right: 50px;
+  text-decoration: none;
+  display: inline-block;
 }
 h4 {
   font-family: teko, Arial, Helvetica, sans-serif;
