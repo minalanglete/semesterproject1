@@ -53,6 +53,8 @@ a {
 .h1 {
   color: #ffffff;
   background-color: #cb55d4;
+  max-width: 270px;
+  display: inline-block;
 }
 
 li {
