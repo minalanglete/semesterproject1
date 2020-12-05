@@ -1,9 +1,27 @@
 /*-----------body----------------------------------------------------------------*/
 
+header {
+  grid-area: header;
+}
+main {
+  grid-area: main;
+}
+aside {
+  grid-area: aside;
+}
+footer {
+  grid-area: footer;
+}
+
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 14px;
   color: #3f424f;
+  display: grid;
+  grid-template-areas:
+    "header header"
+    "main aside"
+    "footer footer";
 }
 h1,
 h2 {
@@ -61,4 +79,10 @@ nav {
 
 aside {
   display: none;
+}
+
+/*-----------footer-----------------------------------------------------------------*/
+
+footer {
+  background-color: #3f424f;
 }
