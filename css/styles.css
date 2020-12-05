@@ -49,7 +49,7 @@ h3 {
   display: inline-block;
   text-transform: uppercase;
 }
-h3 a a:hover {
+h3 a:hover {
   background-color: #fac13e;
 }
 
@@ -113,9 +113,9 @@ nav {
 .mobil {
   display: none;
 }
-.fas {
+.iconmobil .fas {
   color: #fac13e;
-  max-height: 52px;
+  height: 52px;
 }
 .cards {
   text-align: center;
