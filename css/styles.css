@@ -74,7 +74,8 @@ a {
   padding: 0px 0px 5px 10px;
 }
 .toppimg {
-  margin-top: 10px 0px 0px 0px;
+  margin: 0px;
+  margin-top: 10px;
   width: 100%;
 }
 header {
