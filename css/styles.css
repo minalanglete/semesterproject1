@@ -165,6 +165,7 @@ header .fas {
 .Dinosaur {
   background-color: #9769fa;
   display: inline-block;
+  margin: auto;
 }
 .cosmology {
   grid-area: card1;
