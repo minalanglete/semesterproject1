@@ -160,7 +160,6 @@ aside {
 /*-----------footer-----------------------------------------------------------------*/
 .adress {
   grid-area: adress;
-  margin-left: 20px;
   margin-top: 30px;
 }
 .visit {
@@ -196,8 +195,7 @@ aside {
 
 footer {
   color: #ffffff;
-  align-content: center;
-  margin: 10px 30px 30px 30px;
+  margin: auto;
 }
 .upper,
 .upper li p {
