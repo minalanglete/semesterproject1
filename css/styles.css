@@ -24,6 +24,7 @@ body {
   display: grid;
   grid-template-areas:
     "header header"
+    "main main"
     "main aside"
     "footer footer";
 }
@@ -122,8 +123,7 @@ nav {
   padding: 0px 10px 0px 10px;
 }
 
-.iconmobil,
-.iconmobil a {
+.iconmobil {
   text-align: center;
 }
 .iconmobil .fas {
