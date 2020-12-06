@@ -229,12 +229,7 @@ aside {
 }
 .footer {
   display: grid;
-  grid-template-areas:
-    "visit"
-    "getin"
-    "explore"
-    "adress"
-    "media";
+  grid-template-areas: "adress visit getin explore media";
 }
 .footer li,
 .footer p {
