@@ -149,6 +149,8 @@ header .fas {
   text-align: center;
   background-color: #ffffff;
   display: grid;
+  margin-top: 10px;
+  margin-bottom: 10px;
   gap: 10px;
   grid-template-areas:
     "card1"
