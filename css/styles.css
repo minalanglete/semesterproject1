@@ -156,11 +156,20 @@ header .fas {
   margin: auto;
   padding: 0px 20px 0px 20px;
 }
+.cosmology h4,
+.Evolution h4,
+.BiologyandMedicine h4,
+.Roboticsandal h4,
+.Ecology h4,
+.Dinosaur h4 {
+  margin: 0px;
+}
 .cards {
   text-align: center;
   background-color: #ffffff;
   display: grid;
   gap: 10px;
+  margin-top: 10px;
   grid-template-areas:
     "card1"
     "card2"
@@ -186,14 +195,6 @@ header .fas {
 }
 .Dinosaur {
   grid-area: card6;
-}
-.cosmology h4,
-.Evolution h4,
-.BiologyandMedicine h4,
-.Roboticsandal h4,
-.Ecology h4,
-.Dinosaur h4 {
-  margin: 0px;
 }
 
 /*-----------aside-----------------------------------------------------------------*/
@@ -242,7 +243,6 @@ aside {
 footer {
   color: #ffffff;
   margin: auto;
-  margin-top: 20px;
 }
 .upper,
 .upper li p {
