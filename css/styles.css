@@ -174,7 +174,7 @@ aside {
   grid-area: media;
 }
 .footer {
-  display: inline-block;
+  display: block;
   display: grid;
   grid-template-areas: "adress visit getin explore media";
 }
