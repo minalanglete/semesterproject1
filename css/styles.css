@@ -349,7 +349,7 @@ footer {
   header nav li {
     display: inline;
   }
-  ul {
-    margin: 0px 100px 0px 0px;
+  header nav a {
+    padding: 0px 20px 0px 0px;
   }
 }
