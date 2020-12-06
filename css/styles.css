@@ -209,7 +209,8 @@ h5 {
   font-size: 22px;
   font-weight: 400;
   text-align: center;
-  padding: 0px;
+  padding: 10px;
+  margin-left: 20px;
 }
 
 /*-----------footer-----------------------------------------------------------------*/
