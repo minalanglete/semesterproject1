@@ -350,23 +350,7 @@ footer {
     text-align: center;
   }
   header nav li {
-    display: grid;
-    grid-template-areas: "1 2 3 4 5";
+    display: inline-block;
     gap: 50px;
-  }
-  .nav1 {
-    grid-area: 1;
-  }
-  .nav2 {
-    grid-area: 2;
-  }
-  .nav3 {
-    grid-area: 3;
-  }
-  .nav4 {
-    grid-area: 4;
-  }
-  .nav5 {
-    grid-area: 5;
   }
 }
