@@ -12,9 +12,6 @@ aside {
 footer {
   grid-area: footer;
 }
-.maintext {
-  grid-area: maintext;
-}
 
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -27,7 +24,6 @@ body {
   display: grid;
   grid-template-areas:
     "header header"
-    "maintext maintext"
     "main aside"
     "footer footer";
 }
@@ -126,7 +122,8 @@ nav {
   padding: 0px 10px 0px 10px;
 }
 
-.iconmobil {
+.iconmobil,
+.iconmobil a {
   text-align: center;
 }
 .iconmobil .fas {
