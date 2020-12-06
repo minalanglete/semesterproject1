@@ -12,6 +12,9 @@ aside {
 footer {
   grid-area: footer;
 }
+.maintext {
+  grid-area: maintext;
+}
 
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -24,6 +27,7 @@ body {
   display: grid;
   grid-template-areas:
     "header header"
+    "maintext maintext"
     "main aside"
     "footer footer";
 }
