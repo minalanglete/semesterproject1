@@ -178,7 +178,12 @@ aside {
 }
 .footer {
   display: grid;
-  grid-template-areas: "adress visit getin explore media";
+  grid-template-areas:
+    "visit"
+    "getin"
+    "explore"
+    "adress"
+    "media";
 }
 .footer li,
 .footer p {
@@ -210,4 +215,10 @@ footer {
   font-size: 50px;
   gap: 5px;
   margin-top: 0px;
+}
+@media only screen and (min-width: 400px) {
+  .footer {
+    display: grid;
+    grid-template-areas: "adress visit getin explore media";
+  }
 }
