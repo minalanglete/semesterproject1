@@ -73,6 +73,10 @@ a {
 .logo {
   padding: 0px 0px 5px 10px;
 }
+header {
+  padding: 10px;
+  margin-bottom: -10px;
+}
 .toppimg {
   margin-top: 10px;
   width: 100%;
@@ -80,14 +84,10 @@ a {
   top: 0;
   left: 0;
 }
-header {
-  padding: 10px;
-  margin-bottom: -10px;
-}
 .h1 {
   position: absolute;
-  bottom: 500px;
-  right: 50px;
+  bottom: 600px;
+  right: 100px;
   color: #ffffff;
   background-color: #cb55d4;
   max-width: 270px;
