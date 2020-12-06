@@ -148,12 +148,44 @@ header .fas {
 .cards {
   text-align: center;
   background-color: #ffffff;
+  display: grid;
+  grid-template-areas:
+    "card1"
+    "card2"
+    "card3"
+    "card4"
+    "card5"
+    "card6";
 }
-.cosmology {
+.cosmology,
+.Evolution,
+.BiologyandMedicine,
+.Roboticsandal,
+.Ecology,
+.Dinosaur {
   background-color: #9769fa;
   display: inline-block;
   padding: 0px 70px 0px 70px;
 }
+.cosmology {
+  grid-area: card1;
+}
+.Evolution {
+  grid-area: card2;
+}
+.BiologyandMedicine {
+  grid-area: card3;
+}
+.Roboticsandal {
+  grid-area: card4;
+}
+.Ecology {
+  grid-area: card5;
+}
+.Dinosaur {
+  grid-area: card6;
+}
+
 /*-----------aside-----------------------------------------------------------------*/
 
 aside {
