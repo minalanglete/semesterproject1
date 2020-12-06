@@ -347,7 +347,6 @@ footer {
     display: none;
   }
   header nav li {
-    display: flex inline-block;
-    justify-content: space-evenly;
+    display: inline-flexbox;
   }
 }
