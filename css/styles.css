@@ -19,7 +19,6 @@ body {
   color: #000000;
   margin: 0px;
   width: 100%;
-  z-index: 2;
   display: grid;
   grid-template-areas:
     "header"
@@ -121,6 +120,8 @@ header .fas {
 .maintext {
   background-color: #3f424f;
   color: #ffffff;
+  margin-bottom: 10px;
+  padding: 0px 10px 0px 10px;
 }
 .mobil {
   display: none;
