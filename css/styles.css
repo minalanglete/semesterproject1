@@ -3,17 +3,14 @@
 header {
   grid-area: header;
 }
-.cards {
-  grid-area: maincards;
+main {
+  grid-area: main;
 }
 aside {
   grid-area: aside;
 }
 footer {
   grid-area: footer;
-}
-.maintext {
-  grid-area: maintext;
 }
 
 body {
@@ -27,8 +24,7 @@ body {
   display: grid;
   grid-template-areas:
     "header header"
-    "maintext maintext"
-    "maincards aside"
+    "main aside"
     "footer footer";
 }
 a:link,
