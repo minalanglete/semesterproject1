@@ -161,6 +161,7 @@ aside {
 .adress {
   grid-area: adress;
   margin-left: 20px;
+  margin-top: 30px;
 }
 .visit {
   grid-area: visit;
@@ -173,6 +174,7 @@ aside {
 }
 .socialmedia {
   grid-area: media;
+  margin-top: 10px;
 }
 .footer {
   display: grid;
@@ -189,7 +191,7 @@ aside {
 
 footer {
   color: #ffffff;
-  margin: 10px;
+  margin: 10px 30px 30px 30px;
 }
 .upper,
 .upper li p {
@@ -202,4 +204,5 @@ footer {
 }
 .fab {
   font-size: 50px;
+  padding: 0px 10px 0px 10px;
 }
