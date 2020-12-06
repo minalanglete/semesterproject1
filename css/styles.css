@@ -346,10 +346,8 @@ footer {
   label .fas {
     display: none;
   }
-  nav {
-    text-align: center;
-  }
   header nav li {
     display: inline;
+    text-align: center;
   }
 }
