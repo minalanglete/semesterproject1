@@ -216,9 +216,3 @@ footer {
   gap: 5px;
   margin-top: 0px;
 }
-@media only screen and (min-width: 400px) {
-  .footer {
-    display: grid;
-    grid-template-areas: "adress visit getin explore media";
-  }
-}
