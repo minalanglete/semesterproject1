@@ -178,5 +178,5 @@ footer {
   color: #ffffff;
   margin: 10px;
   display: grid;
-  grid-template-areas: "adress" "visit" "getin" "explore" "media";
+  grid-template-areas: "adress visit getin explore media";
 }
