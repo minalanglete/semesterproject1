@@ -161,7 +161,6 @@ header .fas {
   background-color: #ffffff;
   display: grid;
   gap: 10px;
-  margin-top: 10px;
   grid-template-areas:
     "card1"
     "card2"
@@ -243,6 +242,7 @@ aside {
 footer {
   color: #ffffff;
   margin: auto;
+  margin-top: 20px;
 }
 .upper,
 .upper li p {
