@@ -23,9 +23,9 @@ body {
   width: 100%;
   display: grid;
   grid-template-areas:
-    "header"
-    "main"
-    "footer";
+    "header header"
+    "main aside"
+    "footer footer";
 }
 a:link,
 a:visited {
@@ -204,10 +204,6 @@ header .fas {
 
 /*-----------aside-----------------------------------------------------------------*/
 
-aside {
-  display: none;
-}
-
 /*-----------footer-----------------------------------------------------------------*/
 .adress {
   grid-area: adress;
@@ -318,6 +314,9 @@ footer {
   aside {
     display: none;
   }
+}
+
+@media only screen and (max-width: 1000px) {
   .footer {
     display: grid;
     grid-template-areas:
