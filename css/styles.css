@@ -158,7 +158,6 @@ nav {
   text-align: center;
   background-color: #ffffff;
   max-width: 325px;
-  padding: 10px 20px 0px 20px;
   display: grid;
   gap: 10px;
   grid-template-areas:
