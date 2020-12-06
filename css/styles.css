@@ -340,4 +340,10 @@ footer {
   .iconmobil {
     display: none;
   }
+  #hamburger-menu {
+    display: none;
+  }
+  label .fas {
+    display: none;
+  }
 }
