@@ -178,7 +178,6 @@ aside {
 }
 .footer {
   display: grid;
-  margin: auto;
   grid-template-areas:
     "visit"
     "getin"
@@ -197,6 +196,7 @@ aside {
 
 footer {
   color: #ffffff;
+  align-content: center;
   margin: 10px 30px 30px 30px;
 }
 .upper,
