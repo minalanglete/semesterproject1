@@ -178,6 +178,7 @@ aside {
 }
 .footer {
   display: grid;
+  margin: auto;
   grid-template-areas:
     "visit"
     "getin"
