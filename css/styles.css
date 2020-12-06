@@ -17,6 +17,8 @@ body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 14px;
   color: #000000;
+  margin: 0px;
+  width: 100%;
   display: grid;
   grid-template-areas:
     "header"
@@ -26,6 +28,9 @@ body {
 a:link,
 a:visited {
   color: #ffffff;
+}
+header nav a:hover {
+  color: #fac13e;
 }
 
 h1,
@@ -68,6 +73,7 @@ a {
 }
 header {
   background-color: #3f424f;
+  padding: 10px;
 }
 .h1 {
   color: #ffffff;
@@ -121,7 +127,6 @@ header .fas {
 .iconmobil .fas {
   color: #fac13e;
   padding: 20px;
-  text-align: center;
 }
 .fas {
   font-size: 50px;
