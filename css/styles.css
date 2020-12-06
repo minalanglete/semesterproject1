@@ -158,7 +158,25 @@ aside {
 }
 
 /*-----------footer-----------------------------------------------------------------*/
+.adress {
+  grid-area: adress;
+}
+.visit {
+  grid-area: visit;
+}
+.getinvolved {
+  grid-area: getin;
+}
+.explore {
+  grid-area: explore;
+}
+.socialmedia {
+  grid-area: media;
+}
 
 footer {
   color: #ffffff;
+  margin: 10px;
+  display: grid;
+  grid-template-areas: "adress" "visit" "getin" "explore" "media";
 }
