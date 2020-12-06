@@ -145,6 +145,7 @@ nav {
   display: inline-block;
   margin: auto;
   padding: 0px 20px 0px 20px;
+  max-width: 325px;
 }
 .cosmology h4,
 .Evolution h4,
@@ -157,7 +158,6 @@ nav {
 .cards {
   text-align: center;
   background-color: #ffffff;
-  max-width: 325px;
   display: grid;
   gap: 10px;
   grid-template-areas:
