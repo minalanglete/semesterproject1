@@ -161,6 +161,7 @@ header .fas {
   background-color: #ffffff;
   display: grid;
   gap: 10px;
+  margin-top: 10px;
   grid-template-areas:
     "card1"
     "card2"
