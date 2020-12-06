@@ -76,7 +76,7 @@ a {
 .toppimg {
   margin-top: 10px;
   width: 100%;
-  position: static;
+  position: relative;
   top: 0;
   left: 0;
 }
@@ -85,6 +85,9 @@ header {
   margin-bottom: -10px;
 }
 .h1 {
+  position: absolute;
+  bottom: 100px;
+  right: 20px;
   color: #ffffff;
   background-color: #cb55d4;
   max-width: 270px;
@@ -197,7 +200,6 @@ aside {
 footer {
   color: #ffffff;
   margin: auto;
-  padding-left: 20px;
 }
 .upper,
 .upper li p {
