@@ -190,3 +190,8 @@ footer {
   color: #ffffff;
   margin: 10px;
 }
+.upper {
+  font-family: Teko, Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+}
