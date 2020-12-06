@@ -138,10 +138,12 @@ header .fas {
 .mobil {
   display: none;
 }
+.iconmobil {
+  text-align: center;
+}
 .iconmobil .fas {
   color: #fac13e;
   padding: 20px;
-  margin: auto;
 }
 .fas {
   font-size: 50px;
