@@ -113,19 +113,6 @@ nav {
   color: #3f424f;
 }
 
-#hamburger-menu {
-  display: none;
-}
-
-#hamburger-menu:checked ~ nav {
-  display: block;
-  background-color: #3f424f;
-}
-header .fas {
-  color: #ffffff;
-  float: right;
-  margin: 20px 5px 0px 0px;
-}
 /*-----------main-----------------------------------------------------------------*/
 
 .maintext {
