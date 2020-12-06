@@ -173,10 +173,13 @@ aside {
 .socialmedia {
   grid-area: media;
 }
+.footer {
+  display: inline-block;
+  display: grid;
+  grid-template-areas: "adress visit getin explore media";
+}
 
 footer {
   color: #ffffff;
   margin: 10px;
-  display: grid;
-  grid-template-areas: "adress visit getin explore media";
 }
