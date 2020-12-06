@@ -139,9 +139,9 @@ header .fas {
   display: none;
 }
 .iconmobil .fas {
-  text-align: center;
   color: #fac13e;
   padding: 20px;
+  margin: auto;
 }
 .fas {
   font-size: 50px;
