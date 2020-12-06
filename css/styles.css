@@ -204,6 +204,14 @@ header .fas {
 
 /*-----------aside-----------------------------------------------------------------*/
 
+h5 {
+  font-family: teko, Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  text-align: center;
+  padding: 0px;
+}
+
 /*-----------footer-----------------------------------------------------------------*/
 .adress {
   grid-area: adress;
