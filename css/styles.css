@@ -145,21 +145,6 @@ header .fas {
 .fas {
   font-size: 50px;
 }
-.cards {
-  text-align: center;
-  background-color: #ffffff;
-  display: grid;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  gap: 10px;
-  grid-template-areas:
-    "card1"
-    "card2"
-    "card3"
-    "card4"
-    "card5"
-    "card6";
-}
 .cosmology,
 .Evolution,
 .BiologyandMedicine,
@@ -170,6 +155,19 @@ header .fas {
   display: inline-block;
   margin: auto;
   padding: 0px 20px 0px 20px;
+}
+.cards {
+  text-align: center;
+  background-color: #ffffff;
+  display: grid;
+  gap: 10px;
+  grid-template-areas:
+    "card1"
+    "card2"
+    "card3"
+    "card4"
+    "card5"
+    "card6";
 }
 .cosmology {
   grid-area: card1;
