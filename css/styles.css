@@ -191,11 +191,15 @@ footer {
   color: #ffffff;
   margin: 10px;
 }
-.upper {
+.upper,
+.upper li p {
   font-family: Teko, Arial, Helvetica, sans-serif;
   font-size: 30px;
   font-weight: 700;
 }
 .copy {
   text-align: center;
+}
+.fab {
+  font-size: 50px;
 }
