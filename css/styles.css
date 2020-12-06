@@ -167,7 +167,6 @@ header .fas {
   background-color: #9769fa;
   display: inline-block;
   margin: auto;
-  margin-bottom: 0px;
   padding: 0px 20px 0px 20px;
 }
 .cosmology {
@@ -187,6 +186,14 @@ header .fas {
 }
 .Dinosaur {
   grid-area: card6;
+}
+.cosmology h4,
+.Evolution h4,
+.BiologyandMedicine h4,
+.Roboticsandal h4,
+.Ecology h4,
+.Dinosaur h4 {
+  margin: 0px;
 }
 
 /*-----------aside-----------------------------------------------------------------*/
