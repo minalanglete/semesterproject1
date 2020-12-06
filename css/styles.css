@@ -160,6 +160,7 @@ aside {
 /*-----------footer-----------------------------------------------------------------*/
 .adress {
   grid-area: adress;
+  margin-left: 20px;
 }
 .visit {
   grid-area: visit;
@@ -194,4 +195,7 @@ footer {
   font-family: Teko, Arial, Helvetica, sans-serif;
   font-size: 30px;
   font-weight: 700;
+}
+.copy {
+  text-align: center;
 }
