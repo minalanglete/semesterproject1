@@ -166,6 +166,7 @@ header .fas {
   background-color: #9769fa;
   display: inline-block;
   margin: auto;
+  padding: 10px 70px 10px 70px;
 }
 .cosmology {
   grid-area: card1;
