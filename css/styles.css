@@ -204,6 +204,10 @@ header .fas {
 
 /*-----------aside-----------------------------------------------------------------*/
 
+aside {
+  background-color: #ffffff;
+}
+
 h5 {
   font-family: teko, Arial, Helvetica, sans-serif;
   font-size: 22px;
@@ -211,6 +215,7 @@ h5 {
   text-align: center;
   padding: 10px;
   margin-left: 20px;
+  background-color: #3f424f;
 }
 
 /*-----------footer-----------------------------------------------------------------*/
