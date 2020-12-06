@@ -177,9 +177,11 @@ aside {
   display: grid;
   grid-template-areas: "adress visit getin explore media";
 }
-.footer li a {
+.footer li,
+.footer p {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 16px;
+  text-transform: none;
 }
 
 footer {
