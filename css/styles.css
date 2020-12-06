@@ -356,4 +356,7 @@ footer {
     margin: auto;
     text-align: center;
   }
+  .logo {
+    float: left;
+  }
 }
