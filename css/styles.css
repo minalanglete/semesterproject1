@@ -199,6 +199,10 @@ footer {
   font-size: 30px;
   font-weight: 700;
 }
+.upper li p {
+  margin: 0px;
+  padding: 0px;
+}
 .copy {
   text-align: center;
 }
