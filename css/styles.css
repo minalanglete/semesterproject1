@@ -76,7 +76,7 @@ a {
 .toppimg {
   margin-top: 10px;
   width: 100%;
-  position: relative;
+  position: static;
   top: 0;
   left: 0;
 }
