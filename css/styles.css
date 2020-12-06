@@ -74,6 +74,7 @@ a {
 }
 .toppimg {
   max-width: 100%;
+  margin-top: 10px;
 }
 header {
   padding: 10px;
