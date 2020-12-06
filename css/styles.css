@@ -3,8 +3,8 @@
 header {
   grid-area: header;
 }
-main {
-  grid-area: main;
+.cards {
+  grid-area: maincards;
 }
 aside {
   grid-area: aside;
@@ -12,8 +12,8 @@ aside {
 footer {
   grid-area: footer;
 }
-main .maintext {
-  grid-area: mainmain;
+.maintext {
+  grid-area: maintext;
 }
 
 body {
@@ -27,8 +27,8 @@ body {
   display: grid;
   grid-template-areas:
     "header header"
-    "mainmain mainmain"
-    "main aside"
+    "maintext maintext"
+    "maincards aside"
     "footer footer";
 }
 a:link,
