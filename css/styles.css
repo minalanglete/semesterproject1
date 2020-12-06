@@ -350,7 +350,6 @@ footer {
     text-align: center;
   }
   header nav li {
-    display: inline-block;
-    gap: 50px;
+    display: inline;
   }
 }
