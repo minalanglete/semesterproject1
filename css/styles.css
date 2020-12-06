@@ -214,12 +214,15 @@ h5 {
   font-size: 22px;
   font-weight: 400;
   text-align: center;
+  color: #ffffff;
   background-color: #3f424f;
   margin: 0px;
+  padding-top: 20px;
 }
 .h5 {
   text-align: center;
   background-color: #3f424f;
+  color: #ffffff;
   margin: 0px;
   padding-bottom: 10px;
 }
