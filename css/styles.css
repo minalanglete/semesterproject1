@@ -157,6 +157,7 @@ nav {
 .cards {
   text-align: center;
   background-color: #ffffff;
+  max-width: 225px;
   display: grid;
   gap: 10px;
   grid-template-areas:
