@@ -167,6 +167,7 @@ header .fas {
   background-color: #9769fa;
   display: inline-block;
   margin: auto;
+  margin-bottom: 0px;
   padding: 0px 20px 0px 20px;
 }
 .cosmology {
