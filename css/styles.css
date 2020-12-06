@@ -86,7 +86,8 @@ header {
 }
 .h1 {
   position: absolute;
-  bottom: 10px;
+  bottom: 500px;
+  left: auto;
   color: #ffffff;
   background-color: #cb55d4;
   max-width: 270px;
