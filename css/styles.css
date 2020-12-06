@@ -351,6 +351,7 @@ footer {
   }
   header nav a {
     padding: 40px 40px 0px 0px;
+    margin-top: 40px;
   }
   .nav {
     margin: auto;
