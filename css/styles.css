@@ -174,10 +174,12 @@ aside {
   grid-area: media;
 }
 .footer {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 16px;
   display: grid;
   grid-template-areas: "adress visit getin explore media";
+}
+.footer li a {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
 }
 
 footer {
