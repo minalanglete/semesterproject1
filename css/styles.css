@@ -5,6 +5,8 @@ header {
 }
 main {
   grid-area: main;
+  margin-left: auto;
+  margin-right: auto;
 }
 aside {
   grid-area: aside;
@@ -166,8 +168,6 @@ nav {
   grid-template-areas:
     "card1 card2 card3"
     "card4 card5 card6";
-  margin-left: auto;
-  margin-right: auto;
 }
 .cosmology {
   grid-area: card1;
