@@ -194,6 +194,10 @@ aside {
 .aside1 {
   text-align: left;
 }
+.aside1 h5,
+.aside1 .h5 {
+  padding-left: 40px;
+}
 h5 {
   font-family: teko, Arial, Helvetica, sans-serif;
   font-size: 22px;
@@ -202,16 +206,14 @@ h5 {
   background-color: #3f424f;
   margin: 0px;
   padding-top: 20px;
-  padding-left: 20px;
-  width: 300px;
+  width: 280px;
 }
 .h5 {
   background-color: #3f424f;
   color: #ffffff;
   margin: 0px;
   padding-bottom: 10px;
-  padding-left: 20px;
-  width: 300px;
+  width: 280px;
 }
 aside h3 {
   margin: 10px 0px 0px 0px;
