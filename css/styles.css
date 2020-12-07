@@ -111,6 +111,7 @@ li {
 
 nav {
   color: #3f424f;
+  padding-right: 10px;
 }
 header .maintext {
   max-width: 800px;
