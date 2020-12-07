@@ -301,7 +301,7 @@ footer {
 
 /*-----------media queries-----------------------------------------------------------------*/
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 1000px) {
   body {
     display: grid;
     grid-template-areas:
@@ -343,7 +343,7 @@ footer {
   }
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 800px) {
   .cards {
     text-align: center;
     background-color: #ffffff;
@@ -370,7 +370,7 @@ footer {
       "media";
   }
 }
-@media only screen and (min-width: 901px) {
+@media only screen and (min-width: 1001px) {
   .iconmobil {
     display: none;
   }
