@@ -254,6 +254,8 @@ aside h3 {
 .footer {
   display: grid;
   grid-template-areas: "adress visit getin explore media";
+  margin-left: auto;
+  margin-right: auto;
 }
 .footer li,
 .footer p {
@@ -267,10 +269,7 @@ aside h3 {
 footer {
   color: #ffffff;
   background-color: #3f424f;
-  margin-left: auto;
-  margin-right: auto;
   width: 100%;
-  justify-items: center;
 }
 .upper,
 .upper li p {
