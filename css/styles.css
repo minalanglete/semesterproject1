@@ -188,9 +188,6 @@ header .maintext {
 .Dinosaur {
   grid-area: card6;
 }
-.mobil .fas {
-  color: #fa3e3e;
-}
 .mobil p {
   text-align: left;
 }
