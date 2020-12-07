@@ -203,7 +203,6 @@ aside {
 }
 .aside1 {
   text-align: left;
-  padding-top: 50px;
 }
 h5 {
   font-family: teko, Arial, Helvetica, sans-serif;
@@ -211,6 +210,7 @@ h5 {
   font-weight: 400;
   color: #ffffff;
   background-color: #3f424f;
+  padding-bottom: 20px;
   margin: 0px;
   width: 280px;
 }
