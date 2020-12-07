@@ -114,6 +114,10 @@ nav {
 header .maintext {
   max-width: 800px;
 }
+.cards h3 a {
+  padding-left: 10px;
+  padding-right: 10px;
+}
 /*-----------main-----------------------------------------------------------------*/
 
 .maintext {
@@ -342,7 +346,7 @@ footer {
   }
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 800px) {
   .cards {
     text-align: center;
     background-color: #ffffff;
