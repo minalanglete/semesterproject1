@@ -301,7 +301,7 @@ footer {
 
 /*-----------media queries-----------------------------------------------------------------*/
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 900px) {
   body {
     display: grid;
     grid-template-areas:
@@ -343,16 +343,19 @@ footer {
   }
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 400px) {
   .cards {
     text-align: center;
     background-color: #ffffff;
     display: grid;
     gap: 10px;
     grid-template-areas:
-      "card1 card2"
-      "card3 card4"
-      "card5 card6";
+      "card1"
+      "card2"
+      "card3"
+      "vard4"
+      "card5"
+      "card6";
   }
 }
 
@@ -367,7 +370,7 @@ footer {
       "media";
   }
 }
-@media only screen and (min-width: 1001px) {
+@media only screen and (min-width: 901px) {
   .iconmobil {
     display: none;
   }
