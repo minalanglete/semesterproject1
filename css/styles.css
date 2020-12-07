@@ -357,7 +357,7 @@ footer {
   aside {
     display: none;
   }
-  .iconmobil .fas a:hover {
+  main .fas a:hover {
     color: #cb55d4;
   }
 }
