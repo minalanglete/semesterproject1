@@ -135,8 +135,9 @@ header .maintext {
   width: 100%;
 }
 .iconmobil .fas {
-  color: #fa3e3e;
+  color: #fac13e;
   padding: 40px 20px 20px 20px;
+  width: 100%;
 }
 .fas {
   font-size: 50px;
