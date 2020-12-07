@@ -159,6 +159,9 @@ header .maintext {
 .Dinosaur h4 {
   margin: 0px;
 }
+main .cards {
+  margin: auto;
+}
 .cards {
   text-align: center;
   background-color: #ffffff;
@@ -330,8 +333,6 @@ footer {
   }
   .cards {
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
     background-color: #ffffff;
     display: grid;
     gap: 10px;
