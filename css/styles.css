@@ -270,6 +270,7 @@ footer {
   margin-left: auto;
   margin-right: auto;
   width: 100%;
+  justify-items: center;
 }
 .upper,
 .upper li p {
