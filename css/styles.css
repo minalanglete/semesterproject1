@@ -133,11 +133,11 @@ header .maintext {
   text-align: center;
   background-color: #3f424f;
   width: 100%;
-  justify-items: center;
 }
 .iconmobil .fas {
   color: #fac13e;
   padding: 40px 20px 20px 20px;
+  justify-items: center;
 }
 .fas {
   font-size: 50px;
