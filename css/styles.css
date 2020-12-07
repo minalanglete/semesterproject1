@@ -208,6 +208,10 @@ h5 {
   margin: 0px;
   padding-bottom: 10px;
 }
+aside h3 {
+  text-align: center;
+  margin: 0px 10px 0px 10px;
+}
 
 /*-----------footer-----------------------------------------------------------------*/
 .adress {
