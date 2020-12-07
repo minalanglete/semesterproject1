@@ -189,7 +189,7 @@ header .maintext {
   grid-area: card6;
 }
 .mobil .fas {
-  color: #fac13e;
+  color: #fa3e3e;
 }
 .mobil p {
   text-align: left;
@@ -359,9 +359,6 @@ footer {
   }
   aside {
     display: none;
-  }
-  main .fas a:hover {
-    color: #cb55d4;
   }
 }
 
