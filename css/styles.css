@@ -136,7 +136,7 @@ header .maintext {
   color: #fac13e;
   padding: 40px 20px 20px 20px;
 }
-.iconmobil .fas a:hover {
+.fas a:hover {
   color: #cb55d4;
 }
 .fas {
@@ -254,7 +254,6 @@ aside h3 {
 .footer {
   display: grid;
   grid-template-areas: "adress visit getin explore media";
-  width: 100%;
 }
 .footer li,
 .footer p {
