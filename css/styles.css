@@ -313,10 +313,7 @@ footer {
   color: #ffffff;
   margin-bottom: 20px;
 }
-.background .maintext2 h2,
-.background.maintext2 p {
-  max-width: 615px;
-}
+
 /*-----------media queries-----------------------------------------------------------------*/
 
 @media only screen and (max-width: 1000px) {
