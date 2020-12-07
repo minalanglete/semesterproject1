@@ -121,7 +121,8 @@ nav {
   margin-top: 0px;
   padding: 0px 10px 0px 10px;
   max-width: 800px;
-  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .iconmobil {
