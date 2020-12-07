@@ -245,6 +245,8 @@ aside h3 {
 .footer {
   display: grid;
   grid-template-areas: "adress visit getin explore media";
+  margin-left: auto;
+  margin-right: auto;
 }
 .footer li,
 .footer p {
