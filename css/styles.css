@@ -189,28 +189,29 @@ aside {
   background-color: #ffffff;
   padding: 10px 10px 20px 20px;
   margin-top: 0px;
+  text-align: center;
 }
-
+.aside1 {
+  text-align: left;
+}
 h5 {
   font-family: teko, Arial, Helvetica, sans-serif;
   font-size: 22px;
   font-weight: 400;
-  text-align: center;
   color: #ffffff;
   background-color: #3f424f;
   margin: 0px;
   padding-top: 20px;
-  width: 380px;
+  width: 300px;
 }
 .h5 {
-  text-align: center;
   background-color: #3f424f;
   color: #ffffff;
   margin: 0px;
   padding-bottom: 10px;
+  width: 300px;
 }
 aside h3 {
-  text-align: center;
   margin: 10px 0px 0px 0px;
 }
 
