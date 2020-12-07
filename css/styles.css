@@ -313,7 +313,11 @@ footer {
   color: #ffffff;
   margin-bottom: 20px;
 }
-
+.yello {
+  color: #fac13e;
+  font-weight: bold;
+  font-style: italic;
+}
 /*-----------media queries-----------------------------------------------------------------*/
 
 @media only screen and (max-width: 1000px) {
