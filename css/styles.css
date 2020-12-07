@@ -211,7 +211,6 @@ h5 {
   color: #ffffff;
   background-color: #3f424f;
   margin: 0px;
-  padding-top: 20px;
   width: 280px;
 }
 .h5 {
@@ -228,9 +227,6 @@ h5 {
 }
 aside h3 {
   margin: 10px 0px 0px 0px;
-}
-.aside2 {
-  padding-bottom: 20px;
 }
 
 /*-----------footer-----------------------------------------------------------------*/
