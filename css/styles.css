@@ -132,6 +132,7 @@ header .maintext {
 .iconmobil {
   text-align: center;
   background-color: #3f424f;
+  width: 100%;
 }
 .iconmobil .fas {
   color: #fac13e;
