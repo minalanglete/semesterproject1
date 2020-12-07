@@ -307,6 +307,10 @@ footer {
 .maintext2 p {
   margin-top: 0px;
 }
+.background {
+  background-color: #3f424f;
+  color: #ffffff;
+}
 /*-----------media queries-----------------------------------------------------------------*/
 
 @media only screen and (max-width: 1000px) {
