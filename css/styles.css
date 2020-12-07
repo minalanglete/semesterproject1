@@ -210,7 +210,6 @@ h5 {
   font-weight: 400;
   color: #ffffff;
   background-color: #3f424f;
-  padding: 10px 0px 20px 0px;
   margin: 0px;
   width: 280px;
 }
@@ -334,15 +333,25 @@ footer {
     display: grid;
     gap: 10px;
     grid-template-areas:
-      "card1"
-      "card2"
-      "card3"
-      "card4"
-      "card5"
-      "card6";
+      "card1 card2"
+      "card3 card4"
+      "card5 card6";
   }
   aside {
     display: none;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .cards {
+    text-align: center;
+    background-color: #ffffff;
+    display: grid;
+    gap: 10px;
+    grid-template-areas:
+      "card1 card2"
+      "card3 card4"
+      "card5 card6";
   }
 }
 
