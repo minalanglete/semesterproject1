@@ -137,7 +137,12 @@ nav {
 .fas {
   font-size: 50px;
 }
-.mobil {
+.cosmology,
+.Evolution,
+.BiologyandMedicine,
+.Roboticsandal,
+.Ecology,
+.Dinosaur {
   background-color: #9769fa;
   display: inline-block;
   margin: 10px 0px 20px 10px;
