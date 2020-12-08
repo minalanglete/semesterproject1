@@ -304,19 +304,17 @@ footer {
 
 .maintext2 {
   background-color: #ffffff;
-  padding: 10px 10px 20px 10px;
+  padding: 10px 10px 20px auto;
   justify-items: right;
   margin-left: auto;
 }
 .maintext2 h2 {
   margin-top: 10px;
   margin-bottom: 0px;
-  justify-items: right;
 }
 .maintext2 p {
   margin-top: 0px;
   max-width: 615px;
-  justify-items: right;
 }
 .background .maintext2 {
   background-color: #3f424f;
