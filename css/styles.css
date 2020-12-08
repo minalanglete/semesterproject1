@@ -211,6 +211,9 @@ aside {
 .aside1 {
   text-align: left;
 }
+.aside1 .title1 {
+  text-align: center;
+}
 h5 {
   font-family: teko, Arial, Helvetica, sans-serif;
   font-size: 22px;
