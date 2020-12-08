@@ -77,10 +77,12 @@ header {
   padding-top: 10px;
   background-color: #3f424f;
 }
+.top {
+  position: relative;
+}
 .toppimg {
   margin-top: 10px;
   width: 100%;
-  position: relative;
   top: 0;
   left: 0;
 }
