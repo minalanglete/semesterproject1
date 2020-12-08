@@ -388,8 +388,6 @@ li .current {
   .h1 {
     position: absolute;
     bottom: -50px;
-    right: auto;
-    left: auto;
     justify-items: center;
   }
 }
