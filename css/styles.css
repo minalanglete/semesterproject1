@@ -301,13 +301,15 @@ footer {
   width: 100%;
   margin-bottom: 0px;
 }
+.background {
+  padding: auto;
+}
 .maintext2 {
   background-color: #ffffff;
   padding: 10px 10px 20px 10px;
   max-width: 615px;
   justify-items: right;
   margin-left: auto;
-  padding-left: auto;
 }
 .maintext2 h2 {
   margin-top: 10px;
