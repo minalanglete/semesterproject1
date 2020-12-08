@@ -130,6 +130,10 @@ header .maintext {
 .maintext2 {
   width: 100%;
 }
+.homesite {
+  max-width: 300px;
+  margin: auto;
+}
 
 .iconmobil {
   text-align: center;
