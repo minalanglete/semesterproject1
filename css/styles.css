@@ -208,11 +208,8 @@ aside {
   width: 300px;
 }
 
-.aside1 {
+.placeleft {
   text-align: left;
-}
-.title1 a {
-  text-align: center;
 }
 h5 {
   font-family: teko, Arial, Helvetica, sans-serif;
