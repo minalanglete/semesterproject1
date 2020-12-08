@@ -208,7 +208,7 @@ aside {
   width: 300px;
 }
 }
-.aside1 h5, .aside1 p {
+.aside1 h5, .aside1 .h5 {
   text-align: left;
 }
 h5 {
