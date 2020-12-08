@@ -319,7 +319,7 @@ footer {
   font-weight: bold;
   font-style: italic;
 }
-.current {
+li .current {
   color: #fac13e;
 }
 .current1 {
