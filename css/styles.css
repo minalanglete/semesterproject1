@@ -304,9 +304,10 @@ footer {
 .maintext2 {
   background-color: #ffffff;
   padding: 10px 10px 20px 10px;
-  max-width: 1065px;
+  max-width: 615px;
   justify-items: right;
   margin-left: auto;
+  padding-left: 0;
 }
 .maintext2 h2 {
   margin-top: 10px;
