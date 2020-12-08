@@ -127,6 +127,9 @@ header .maintext {
   margin-left: auto;
   margin-right: auto;
 }
+.maintext2 {
+  width: 100%;
+}
 
 .iconmobil {
   text-align: center;
