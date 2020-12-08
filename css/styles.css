@@ -310,11 +310,11 @@ footer {
 .maintext2 h2 {
   margin-top: 10px;
   margin-bottom: 0px;
-  padding-left: 50px;
+  padding-left: 100px;
 }
 .maintext2 p {
   margin-top: 0px;
-  padding-left: 50px;
+  padding-left: 100px;
 }
 .background .maintext2 {
   background-color: #3f424f;
@@ -325,7 +325,7 @@ footer {
   color: #fac13e;
   font-weight: bold;
   font-style: italic;
-  padding-left: 50px;
+  padding-left: 100px;
 }
 li .current {
   color: #fac13e;
@@ -419,6 +419,11 @@ li .current {
     left: 0;
     right: 0;
     text-align: center;
+  }
+  .maintext2 h2,
+  .maintext2 p,
+  .yello {
+    padding-left: 20px;
   }
 }
 
