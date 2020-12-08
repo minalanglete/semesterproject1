@@ -388,7 +388,9 @@ li .current {
   .h1 {
     position: absolute;
     bottom: -50px;
-    justify-items: center;
+  }
+  h1 {
+    text-align: center;
   }
 }
 
