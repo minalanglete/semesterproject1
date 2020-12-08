@@ -32,6 +32,8 @@ a:visited {
 }
 header nav a:hover {
   color: #fac13e;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 h1,
