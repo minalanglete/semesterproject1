@@ -116,7 +116,12 @@ nav {
 header .maintext {
   max-width: 800px;
 }
-
+.current {
+  color: #fac13e;
+}
+.current1 {
+  color: #cb55d4;
+}
 /*-----------main-----------------------------------------------------------------*/
 
 .maintext {
