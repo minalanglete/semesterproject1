@@ -22,9 +22,9 @@ body {
   width: 100%;
   display: grid;
   grid-template-areas:
-    "header header"
-    "main aside"
-    "footer footer";
+    "header header header"
+    "main main aside"
+    "footer footer footer";
 }
 a:link,
 a:visited {
