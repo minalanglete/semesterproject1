@@ -322,7 +322,7 @@ footer {
 li .current {
   color: #fac13e;
 }
-div .current1 {
+.current1 .fas {
   color: #cb55d4;
 }
 /*-----------media queries-----------------------------------------------------------------*/
