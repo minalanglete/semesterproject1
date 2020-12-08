@@ -365,6 +365,15 @@ li .current {
       "card3 card4"
       "card5 card6";
   }
+  .cosmology,
+  .Evolution,
+  .BiologyandMedicine,
+  .Roboticsandal,
+  .Ecology,
+  .Dinosaur {
+    max-width: 234px;
+  }
+
   aside {
     display: none;
   }
