@@ -55,7 +55,7 @@ h3 {
   display: inline-block;
   text-transform: uppercase;
 }
-h3 a:hover {
+a:hover h3 {
   background-color: #fac13e;
 }
 
