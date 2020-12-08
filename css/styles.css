@@ -301,11 +301,19 @@ footer {
   width: 100%;
   margin-bottom: 0px;
 }
-.maintext2 {
+.maintext2,
+.maintext3 {
   background-color: #ffffff;
   padding: 10px 10px 20px 10px;
   justify-items: right;
   margin-left: auto;
+}
+.maintext3 h2 {
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+.maintext3 p {
+  margin-top: 0px;
 }
 .maintext2 h2 {
   margin-top: 10px;
