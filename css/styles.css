@@ -311,10 +311,12 @@ footer {
 .maintext2 h2 {
   margin-top: 10px;
   margin-bottom: 0px;
+  justify-items: right;
 }
 .maintext2 p {
   margin-top: 0px;
   max-width: 615px;
+  justify-items: right;
 }
 .background .maintext2 {
   background-color: #3f424f;
