@@ -385,6 +385,8 @@ li .current {
   }
   .h1 {
     bottom: -50px;
+    left: 0;
+    right: 0;
   }
 }
 
