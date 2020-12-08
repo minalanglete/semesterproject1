@@ -166,6 +166,7 @@ header .maintext {
   text-align: center;
   justify-items: right;
   margin-left: auto;
+  max-width: 325px;
   background-color: #ffffff;
   display: grid;
   gap: 10px;
