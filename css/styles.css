@@ -396,6 +396,12 @@ li .current {
     right: 0;
     text-align: center;
   }
+  .maintext2 h2,
+  .maintext2 p,
+  .yello {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
 }
 
 @media only screen and (max-width: 800px) {
@@ -423,12 +429,6 @@ li .current {
     left: 0;
     right: 0;
     text-align: center;
-  }
-  .maintext2 h2,
-  .maintext2 p,
-  .yello {
-    padding-left: 20px;
-    padding-right: 20px;
   }
 }
 
