@@ -390,7 +390,7 @@ li .current {
     bottom: -50px;
     right: auto;
     left: auto;
-    text-align: center;
+    justify-items: center;
   }
 }
 
