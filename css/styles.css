@@ -304,7 +304,7 @@ footer {
 
 .maintext2 {
   background-color: #ffffff;
-  padding: 10px 10px 20px auto;
+  padding: 10px 10px 20px 10px;
   justify-items: right;
   margin-left: auto;
 }
