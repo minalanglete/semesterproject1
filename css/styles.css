@@ -308,6 +308,9 @@ footer {
   justify-items: right;
   margin-left: auto;
 }
+.maintext3 {
+  max-width: 1065px;
+}
 .maintext3 h2 {
   margin-top: 10px;
   margin-bottom: 0px;
