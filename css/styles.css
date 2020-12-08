@@ -393,6 +393,8 @@ footer {
       "explore"
       "adress"
       "media";
+    max-width: 250px;
+    margin: auto;
   }
 }
 @media only screen and (min-width: 1001px) {
