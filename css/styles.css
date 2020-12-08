@@ -371,7 +371,7 @@ li .current {
   .Roboticsandal,
   .Ecology,
   .Dinosaur {
-    max-width: 234px;
+    min-width: 234px;
   }
 
   aside {
