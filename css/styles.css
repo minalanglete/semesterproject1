@@ -417,6 +417,16 @@ li .current {
   .maintext3 .eventimg {
     width: 100%;
   }
+  .maintext2,
+  .maintext3 {
+    padding: 10px 10px 20px 0px;
+  }
+  .maintext2 h2,
+  .maintext2 p,
+  .maintext3 h2,
+  .maintext3 p {
+    padding: 10px 10px 20px 10px;
+  }
 }
 
 @media only screen and (max-width: 800px) {
