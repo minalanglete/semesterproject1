@@ -427,6 +427,22 @@ li .current {
   .maintext3 p {
     padding: 10px 10px 20px 10px;
   }
+  .maintext3 h2 {
+    margin-top: 10px;
+    margin-bottom: 0px;
+  }
+  .maintext3 p {
+    margin-top: 0px;
+  }
+  .maintext2 h2 {
+    margin-top: 10px;
+    margin-bottom: 0px;
+    padding-left: 200px;
+    padding-right: 50px;
+  }
+  .maintext2 p {
+    margin-top: 0px;
+  }
 }
 
 @media only screen and (max-width: 800px) {
