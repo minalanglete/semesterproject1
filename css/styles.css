@@ -325,13 +325,6 @@ li .current {
 .current1 .fas {
   color: #cb55d4;
 }
-.maintext2 {
-  width: 100%;
-}
-.homesite {
-  max-width: 300px;
-  margin: auto;
-}
 /*-----------media queries-----------------------------------------------------------------*/
 
 @media only screen and (max-width: 1000px) {
