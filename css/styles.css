@@ -413,8 +413,8 @@ li .current {
     padding-left: 20px;
     padding-right: 20px;
   }
-  .exhimg,
-  .eventimg {
+  .maintext3 .exhimg,
+  .maintext3 .eventimg {
     width: 100%;
   }
 }
