@@ -384,7 +384,6 @@ li .current {
     display: none;
   }
   .h1 {
-    position: absolute;
     text-align: center;
   }
 }
