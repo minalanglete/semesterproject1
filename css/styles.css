@@ -408,6 +408,9 @@ li .current {
   .mobil .fas {
     display: none;
   }
+  h1 {
+    font-size: 30px;
+  }
 }
 
 @media only screen and (max-width: 1000px) {
