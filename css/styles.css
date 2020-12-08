@@ -116,12 +116,6 @@ nav {
 header .maintext {
   max-width: 800px;
 }
-.current {
-  color: #fac13e;
-}
-.current1 {
-  color: #cb55d4;
-}
 /*-----------main-----------------------------------------------------------------*/
 
 .maintext {
@@ -324,6 +318,12 @@ footer {
   color: #fac13e;
   font-weight: bold;
   font-style: italic;
+}
+.current {
+  color: #fac13e;
+}
+.current1 {
+  color: #cb55d4;
 }
 /*-----------media queries-----------------------------------------------------------------*/
 
