@@ -20,7 +20,6 @@ body {
   margin: 0px;
   padding: 0px;
   width: 100%;
-  justify-items: center;
   display: grid;
   grid-template-areas:
     "header header"
@@ -359,6 +358,7 @@ li .current {
     text-align: center;
     background-color: #ffffff;
     display: grid;
+    justify-items: center;
     gap: 10px;
     grid-template-areas:
       "card1 card2"
