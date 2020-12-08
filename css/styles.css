@@ -413,6 +413,10 @@ li .current {
     padding-left: 20px;
     padding-right: 20px;
   }
+  .exhimg,
+  .eventimg {
+    max-width: 100%;
+  }
 }
 
 @media only screen and (max-width: 800px) {
