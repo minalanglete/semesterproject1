@@ -164,6 +164,8 @@ header .maintext {
 }
 .cards {
   text-align: center;
+  justify-items: right;
+  margin-left: auto;
   background-color: #ffffff;
   display: grid;
   gap: 10px;
