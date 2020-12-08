@@ -384,11 +384,9 @@ li .current {
     display: none;
   }
   .h1 {
-    bottom: -70px;
+    bottom: -60px;
     left: 0;
     right: 0;
-    padding: 0px 0px 0px 0px;
-    margin-bottom: 0px;
     text-align: center;
   }
 }
