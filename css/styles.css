@@ -351,6 +351,12 @@ li .current {
 }
 /*-----------media queries-----------------------------------------------------------------*/
 
+@media only screen and (max-width: 1600px) {
+  header nav a {
+    padding: 40px 10px 0px 0px;
+  }
+}
+
 @media only screen and (max-width: 1000px) {
   body {
     display: grid;
