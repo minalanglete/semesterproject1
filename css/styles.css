@@ -351,12 +351,12 @@ li .current {
 }
 /*-----------media queries-----------------------------------------------------------------*/
 
-@media only screen and (max-width: 1600px) {
+/*@media only screen and (max-width: 1600px) {
   header nav a {
     padding: 40px 10px 0px 0px;
   }
 }
-
+*/
 @media only screen and (max-width: 1000px) {
   body {
     display: grid;
@@ -491,7 +491,7 @@ li .current {
     display: inline;
   }
   header nav a {
-    padding: 40px 40px 0px 0px;
+    padding: 40px 10px 0px 0px;
   }
   .nav {
     margin: auto;
