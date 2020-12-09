@@ -136,9 +136,6 @@ header .maintext {
   color: #fac13e;
   padding: 40px 20px 20px 20px;
 }
-.iconmobil a:hover .fas {
-  color: #cb55d4;
-}
 .fas {
   font-size: 50px;
 }
@@ -346,7 +343,7 @@ li .current {
   color: #fac13e;
 }
 .current1 .fas {
-  color: #cb55d4;
+  color: #dc55e6;
 }
 /*-----------media queries-----------------------------------------------------------------*/
 
