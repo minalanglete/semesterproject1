@@ -353,7 +353,7 @@ li .current {
 
 @media only screen and (max-width: 1300px) {
   header nav a {
-    font-size: 25px;
+    font-size: 20px;
   }
 }
 @media only screen and (max-width: 1024px) {
