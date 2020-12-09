@@ -356,7 +356,7 @@ li .current {
     font-size: 20px;
   }
 }
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 1024px) {
   body {
     display: grid;
     grid-template-areas:
@@ -435,7 +435,7 @@ li .current {
   }
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 768px) {
   .cards {
     text-align: center;
     background-color: #ffffff;
@@ -476,7 +476,7 @@ li .current {
     margin: auto;
   }
 }
-@media only screen and (min-width: 1001px) {
+@media only screen and (min-width: 1025px) {
   .iconmobil {
     display: none;
   }
