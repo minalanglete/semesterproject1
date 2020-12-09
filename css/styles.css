@@ -195,6 +195,10 @@ header .maintext {
 .mobil p {
   text-align: left;
 }
+
+h3 a:hover {
+  color: #fac13e;
+}
 /*-----------aside-----------------------------------------------------------------*/
 
 aside {
