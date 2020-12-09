@@ -435,7 +435,7 @@ li .current {
   }
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 736px) {
   .cards {
     text-align: center;
     background-color: #ffffff;
