@@ -423,11 +423,9 @@ li .current {
   .maintext3 .eventimg {
     width: 100%;
   }
-  .maintext2 {
-    padding: 10px 10px 20px 0px;
-  }
+  .maintext2,
   .maintext3 {
-    padding: 10px 0px 20px 0px;
+    padding: 10px 10px 20px 0px;
   }
   .maintext2 h2,
   .maintext2 p,
