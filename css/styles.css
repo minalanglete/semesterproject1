@@ -433,7 +433,7 @@ li .current {
   .maintext2 p,
   .maintext3 h2,
   .maintext3 p {
-    padding: 10px 10px 20px 10px;
+    padding: 0px 0px 0px 10px;
   }
   header nav a {
     font-size: 30px;
