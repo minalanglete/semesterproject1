@@ -200,12 +200,79 @@ header .maintext {
 h3 a:hover {
   color: #ffe973;
 }
+
+.carrocontainer h2 {
+  color: #3f424f;
+  margin: 0px;
+  text-align: center;
+}
+.carousel {
+  max-width: 600px;
+  text-decoration: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.carrocontainer {
+  max-width: 800px;
+  margin: auto;
+  margin-right: 50px;
+}
+.carro {
+  height: 500px;
+  overflow: hidden;
+  position: relative;
+}
+.container {
+  height: 100%;
+  display: flex;
+  width: 500%;
+  transition: all 0.3s;
+}
+
+.container .carousel1,
+.container .carousel2,
+.container .carousel3,
+.container .carousel4,
+.container .carousel5 {
+  flex-basis: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.carousel1,
+.carousel2,
+.carousel3,
+.carousel4,
+.carousel5 {
+  display: flex;
+  max-width: 700px;
+  gap: 20px;
+  margin: auto;
+}
+.arrows .arrow {
+  position: absolute;
+  top: 45%;
+  cursor: pointer;
+  color: #3f424f;
+}
+.arrow.left {
+  left: 10px;
+}
+.arrow.right {
+  right: 10px;
+}
+.container img {
+  max-width: 700px;
+}
 /*-----------aside-----------------------------------------------------------------*/
 
 aside {
-  background-color: #ffffff;
-  padding: 10px 10px 20px 20px;
-  margin-top: 0px;
+  background-color: #3f424f;
+  padding: 10px 10px 0px 20px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left: 10px;
   text-align: center;
   width: 300px;
 }
@@ -236,6 +303,10 @@ h5 {
 }
 aside h3 {
   margin: 10px 0px 0px 0px;
+}
+.aside2,
+.aside3 {
+  padding-top: 20px;
 }
 
 /*-----------footer-----------------------------------------------------------------*/
@@ -357,6 +428,12 @@ li .current {
   header nav a {
     font-size: 20px;
   }
+  .carrocontainer {
+    max-width: 600px;
+  }
+  .container img {
+    max-width: 500px;
+  }
 }
 @media only screen and (max-width: 1024px) {
   body {
@@ -440,6 +517,10 @@ li .current {
   header nav a {
     font-size: 30px;
   }
+  .carrocontainer {
+    max-width: 600px;
+    margin: auto;
+  }
 }
 
 @media only screen and (max-width: 736px) {
@@ -470,6 +551,15 @@ li .current {
   }
   header nav a {
     font-size: 30px;
+  }
+  .carrocontainer {
+    max-width: 400px;
+  }
+  .container img {
+    max-width: 300px;
+  }
+  .carrocontainer h2 {
+    font-size: 25px;
   }
 }
 
